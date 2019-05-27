@@ -1,8 +1,6 @@
 # a2gapi-php
 Code sample that illustrates how to communicate with A2G API from PHP
 
-Sample that shows how to connect with Alert2Gain's API with PHP code.
-
 <b>Welcome!</b>
 
 This code is meant to be used to connect from PHP with Alert2Gain's API for InputStreams. This code simulates a weather station that generates random values for probes related to temperature and humidity, for every simulated reading a timestamp is generated and formatted.
